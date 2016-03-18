@@ -1,0 +1,6 @@
+build/
+cache/
+node_modules/
+public/assets/
+npm-debug.log
+.DS_Store
